@@ -1,0 +1,6 @@
+@Test
+	public void test2() {
+		Test1 t=new Test1();
+		int a=t.lengthOfLongestSubstring(" ");
+		System.out.println(a);
+	}
