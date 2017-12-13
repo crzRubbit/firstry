@@ -4,3 +4,4 @@
 		int a=t.lengthOfLongestSubstring(" ");
 		System.out.println(a);
 	}
+控制台输出1
